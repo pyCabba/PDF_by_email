@@ -5,6 +5,6 @@ You work for a company that sells second hand cars. Management wants to get a su
 
 ## What need to do:
 
-•	Write a script that summarizes and processes sales data into different categories
-•	Generate a PDF using Python
-•	Automatically send a PDF by email
+* Write a script that summarizes and processes sales data into different categories
+* Generate a PDF using Python
+* Automatically send a PDF by email
